@@ -15,6 +15,9 @@ This project Solidity 0.5.0:
 ## Usage
 To view the smart contract in action, you can view the screenshots in the "SCREENSHOTS" link below. * [SCREENSHOTS](https://github.com/AdamCooke22/module_20/tree/main/Screenshots)
 
+
+You can also view the recorded transactions with the "Execution Results" link below. [Execution Results](https://github.com/AdamCooke22/Module_20/blob/main/transactions_recorded.json)
+
 ## Contributors
 
 Completed by Adam Cooke
