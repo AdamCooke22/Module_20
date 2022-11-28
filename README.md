@@ -8,7 +8,7 @@ In this challenge we will be working with solidity, Solidity is an object-orient
 
 ## Technologies
 
-This project Solidity 0.5.0:
+This project utilizes Solidity 0.5.0:
 
 * [Remix](https://remix.ethereum.org/) - This website acts as a workspace where you can write, compile, deploy, and interact with your solidity code.
 
